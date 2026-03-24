@@ -1,1 +1,5 @@
-# Luanna-R
+-----
+
+![banner](gif/github-header-banner.png)  
+
+-----  
